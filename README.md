@@ -1,2 +1,2 @@
-# Ordinal-Rune-Manuplation-bitcoinjs-lib
+# Ordinal-Rune-Manipulation-bitcoinjs-lib
 This is demo for Bitcoin-Ordinal-Rune manipulation for multisig and  
